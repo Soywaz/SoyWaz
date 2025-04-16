@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><h1>Hi 👋, I'm<a href="https://soywaz.com">Soy waz</a> 👋</h1></summary>
+    <summary><h1 style="display: inline-block"><h1>Hi 👋, I'm <a href="https://soywaz.com">waz</a> 👋</h1></summary>
   </ul>
 </div>
 
