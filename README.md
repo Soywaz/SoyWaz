@@ -1,7 +1,3 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://soywaz.dcom">Soy waz</a> 👋</h1>
-</div>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
