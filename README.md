@@ -1,8 +1,7 @@
-<div>
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm waz</h1></summary>
-  </ul>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
