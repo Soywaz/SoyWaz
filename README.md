@@ -56,16 +56,6 @@
   </ul>
 </div>
 
-<!--Comprame un cafe -->
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="########"/>
-    </a>
-  </p>
-</p>
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -87,6 +77,15 @@
     <img width="30px" src="https://img.icons8.com/color/48/express-js.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </kbd>
+    <kbd>
+    <kbd>SGBD/DBMS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/postgreesql.png" />
+     <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  </kbd>
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -99,15 +98,6 @@
     <img width="30px" src="https://img.icons8.com/fluency/48/bash.png" />
   </kbd>
   <br>
-  <kbd>
-    <kbd>SGBD/DBMS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
-    <img width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-    <img width="30px" src="https://img.icons8.com/color/48/postgreesql.png" />
-     <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  </kbd>
 </p>
 
 <!-- Conecte a mis redes sociales -->     
@@ -116,4 +106,13 @@
   <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+</p>
+<!--Comprame un cafe -->
+<p>
+  <h3 align="center">Support:</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/josuerv99">
+      <img align="center" src="########"/>
+    </a>
+  </p>
 </p>
