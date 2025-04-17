@@ -101,13 +101,15 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30px" src="https://img.icons8.com/color/48/git.png" />
+    <img width="30px" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" />
+    <img width="30px" src="https://img.icons8.com/fluency/48/vite.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/kubernetes.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/docker.png" />
+    <img width="30px" src="" />
   </kbd>
   <br>
   <kbd>
