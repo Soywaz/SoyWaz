@@ -56,12 +56,6 @@
   </ul>
 </div>
 
-<!--Estos son los iconos de My Tech Stack-->
-<img width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/bootstrap--v2.png"/> <img src="https://img.icons8.com/fluency/48/tailwind_css.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/docker.png"/> <img src="https://img.icons8.com/color/48/nodejs.png"/><img src="https://img.icons8.com/color/48/kubernetes.png"/> <img src="https://img.icons8.com/color/48/express-js.png"/> <img src="https://img.icons8.com/fluency/48/vite.png"/> <img src="https://img.icons8.com/fluency/48/python.png"/> <img src="https://img.icons8.com/color/48/git.png"/> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
-
-
-
 <!-- Conecte a mis redes sociales -->
 <hr>      
 <h3 align="center">Connect with me:</h3>
@@ -71,14 +65,12 @@
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
-
 <!-- SUPPORT -->
-<hr>
 <p>
   <h3 align="center">Support:</h3>
   <p>
     <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+      <img align="center" src="########"/>
     </a>
   </p>
 </p>
