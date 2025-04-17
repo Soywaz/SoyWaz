@@ -89,6 +89,8 @@
     <img width="30px" src="https://img.icons8.com/color/48/000000/sass.png"/> 
     <img width="30px" src="https://img.icons8.com/color/48/bootstrap--v2.png" />
     <img width="30px" src="https://img.icons8.com/fluency/48/tailwind_css.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+    <img width="30px" src="https://img.icons8.com/office/48/000000/react.png" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
