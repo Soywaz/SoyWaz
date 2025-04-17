@@ -86,8 +86,9 @@
     <br>
     <img width="30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/sass.png"/> 
+    <img width="30px" src="https://img.icons8.com/color/48/bootstrap--v2.png" />
+    <img width="30px" src="https://img.icons8.com/fluency/48/tailwind_css.png" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
