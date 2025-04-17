@@ -97,9 +97,8 @@
     <br>
     <br>
     <img width="30px" src="https://img.icons8.com/fluency/48/python.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+     <img width="30px" src="https://img.icons8.com/color/48/express-js.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://img.icons8.com/color/48/express-js.png" />
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
