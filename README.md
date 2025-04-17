@@ -56,6 +56,7 @@
   </ul>
 </div>
 
+<!--Estos son los iconos de My Tech Stack-->
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -101,7 +102,18 @@
 </p>
 
 <!-- Conecte a mis redes sociales -->     
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>-->
+
+<!--Esta es el titulo de mis redes sociales-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Conect with me</h1>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+    </summary>
+  </ul>
+</div>
+
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
