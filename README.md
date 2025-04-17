@@ -7,18 +7,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<pre>
+💻 I am a self-taught full-stack developer.
+📚 I have a bachelor's degree in systems engineering.
+🌟 Main languages: Python & JavaScript.
+📝 I have a keen interest in data science, AI, deep learning, machine learning, and computer vision.
+🔭 Interested in AI, IoT, and robotics applications.
+🌱 Growing scientifically.
+🚩 My goal is to be recognized worldwide.
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -39,18 +39,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<hr>
-<pre>
-💻 I am a self-taught full-stack developer.
-📚 I have a bachelor's degree in systems engineering.
-🌟 Main languages: Python & JavaScript.
-📝 I have a keen interest in data science, AI, deep learning, machine learning, and computer vision.
-🔭 Interested in AI, IoT, and robotics applications.
-🌱 Growing scientifically.
-🚩 My goal is to be recognized worldwide.
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
 
 <br>
 
