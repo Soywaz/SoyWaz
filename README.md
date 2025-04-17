@@ -24,8 +24,10 @@
  <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
 
+<!--Esta es la LINEA TOP delgadita-->
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
 <!--Esta es la presentación-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <pre>
 💻 I am a self-taught full-stack developer.
 📚 I have a bachelor's degree in systems engineering.
