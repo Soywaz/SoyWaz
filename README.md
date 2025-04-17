@@ -103,7 +103,6 @@
     <img width="30px" src="https://img.icons8.com/fluency/48/python.png" />
     <img width="30px" src="https://img.icons8.com/color/48/express-js.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -124,6 +123,7 @@
     <img width="30px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
     <img width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
     <img width="30px" src="https://img.icons8.com/color/48/postgreesql.png" />
+     <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
   </kbd>
   <kbd>
     <kbd>OS</kbd>
