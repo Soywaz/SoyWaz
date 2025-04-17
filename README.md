@@ -101,9 +101,6 @@
   <br>
 </p>
 
-<!-- Conecte a mis redes sociales -->     
-<!-- <h3 align="center">Connect with me:</h3>-->
-
 <!--Esta es el titulo de mis redes sociales-->
 <div id="user-content-toc">
   <ul align="center">
