@@ -125,12 +125,4 @@
     <img width="30px" src="https://img.icons8.com/color/48/postgreesql.png" />
      <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
   </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
 </p>
