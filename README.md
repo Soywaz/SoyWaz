@@ -113,12 +113,12 @@
   </kbd>
   <br>
   <kbd>
-    <kbd>Terminal Scripts</kbd>
+    <kbd>SGBD/DBMS</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img width="30px" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/postgreesql.png" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
