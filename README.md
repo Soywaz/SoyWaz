@@ -109,17 +109,9 @@
     <img width="30px" src="https://img.icons8.com/fluency/48/vite.png" />
     <img width="30px" src="https://img.icons8.com/color/48/kubernetes.png" />
     <img width="30px" src="https://img.icons8.com/color/48/docker.png" />
-    <img width="30px" src="" />
+    <img width="30px" src="https://img.icons8.com/fluency/48/bash.png" />
   </kbd>
   <br>
-  <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
