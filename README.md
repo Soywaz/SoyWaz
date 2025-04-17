@@ -237,3 +237,10 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
