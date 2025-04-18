@@ -126,7 +126,7 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Recent stars</h1>
-       <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NzMzQxc3RhZTJiNndybXMxdmZmNGNpZ3A0ODlqZDFkZzg1MHdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHovhgzSuCjLZSnetA/giphy.gif width="32px">
+       <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY2ZW8yOGs1YnhpMGpianZ0aWlwd2c2aXpjZzZwdjd1c25hOWtmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiFtlHVfWg8OOCPZX6/giphy.gif width="32px">
     </summary>
   </ul>
 </div>
