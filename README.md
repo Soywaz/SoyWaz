@@ -33,13 +33,13 @@
 
 <!--Esta es la presentación-->
 <pre>
+📚 I have a degree in systems engineering.
 💻 I am a self-taught full-stack developer.
-📚 I have a bachelor's degree in systems engineering.
-🌟 Main languages: Python & JavaScript.
-📝 I have a keen interest in data science, AI, deep learning, machine learning, and computer vision.
-🔭 Interested in AI, IoT, and robotics applications.
-🌱 Growing scientifically.
-🚩 My goal is to be recognized worldwide.
+📝 I am currently a software instructor.
+🌟 Main languages: Python and JavaScript.
+🌱 I am always learning.
+🔭 I am very interested in data science, AI, deep learning, machine learning, computer vision, IoT, and robotics.
+🚩 My goal is to:
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
