@@ -214,6 +214,7 @@
 </table>                                                                                 
 </div>
 <br>
+
 <!--Esta es el titulo de mis redes sociales-->
 <div id="user-content-toc">
   <ul align="center">
@@ -226,15 +227,16 @@
 
 <!--Estos son lo logos de mis redes sociales-->
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
-   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
 </p>
 <!--Comprame un cafe -->
 <p>
   <h3 align="center">Support:</h3>
-  <p>
+<p>
     <a href="https://www.buymeacoffee.com/josuerv99">
       <img align="center" src="########"/>
     </a>
