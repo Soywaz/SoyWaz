@@ -225,18 +225,17 @@
   </ul>
 </div>
 
+
 <!--Estos son lo logos de mis redes sociales-->
 <p align="center">
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-     
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
 </p>
+
+
 <!--Comprame un cafe -->
 <p>
   <h3 align="center">Support:</h3>
