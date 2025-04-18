@@ -101,11 +101,15 @@
   <br>
 </p>
 
-<br>
+
 
 ## 👷 Check out what I'm currently working on
 
 - [CSS Button Library waz button](https://github.com) - Open Source - CSS Button Library (Active)
+
+## ⭐ Recent stars
+
+- [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (1 day ago)
 
 <!--Esta es el titulo de mis redes sociales-->
 <div id="user-content-toc">
