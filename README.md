@@ -102,7 +102,8 @@
   <br>
 </p>
 
-
+<!--Esta es la LINEA TOP mas gruesa-->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 👷 Check out what I'm currently working on
 
