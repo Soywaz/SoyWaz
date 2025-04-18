@@ -102,10 +102,22 @@
   <br>
 </p>
 
-<!--Esta es la LINEA TOP mas gruesa-->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 👷 Check out what I'm currently working on
+
+
+<!--Esta es el titulo de My Tech Stack-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">My Tech Stack</h1>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+    </summary>
+  </ul>
+</div>
+
+
+
+<!--## 👷 Check out what I'm currently working on-->
 
 - [CSS Button Library waz button](https://github.com) - Open Source - CSS Button Library (Active)
 
