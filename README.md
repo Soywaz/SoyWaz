@@ -228,9 +228,9 @@
 
 <!--Estos son lo logos de mis redes sociales-->
 <p align="center">
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/3d-fluency/94/website.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" />
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
 </p>
