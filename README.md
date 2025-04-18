@@ -226,7 +226,7 @@
 </div>
 
 
-<!--Estos son lo logos de mis redes sociales-->
+<!--Estos son los logos de mis redes sociales-->
 <p align="center">
   <a href="http://www.soywaz.com/" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/domain--v1.png" /></a>
   <a href="https://x.com/Soy_waz" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/ios/50/twitterx--v1.png" /></a>
