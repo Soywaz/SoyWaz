@@ -233,7 +233,7 @@
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" />
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/git.png" />
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://drive.google.com/file/d/1ZR4IiCSo-TcP_uf4Y4byLhRk3tP3hiwo/view?usp=sharing" />
+  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/youtube-play.png" />
 </p>
 
 
