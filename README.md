@@ -232,8 +232,6 @@
   <a href="https://x.com/Soy_waz" target="blank"><img align="center" width="40px" src="https://img.icons8.com/ios/50/twitterx--v1.png" />
   <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/youtube-play.png" />
   <a href="https://www.instagram.com/soy_waz/" target="blank"><img align="center" width="40px" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" />
-  
-  
 </p>
 
 
