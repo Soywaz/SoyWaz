@@ -19,7 +19,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Instructor;System+Engineer;" alt="Headline" />
 </div>
 
-<!--Estos son los iconos de redes sociales abao del las letras verdes-->
+<!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
  <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
  <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
@@ -100,6 +100,8 @@
   </kbd>
   <br>
 </p>
+
+<br>
 
 ## 👷 Check out what I'm currently working on
 
