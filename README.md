@@ -111,7 +111,7 @@
 
 - [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (1 day ago)
 
-## 🎞 🎥 Video tutoriales *youtube*
+## 🎞 Video tutoriales *youtube*
 
 <table>
 <tr>
