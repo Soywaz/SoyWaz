@@ -125,9 +125,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Recent stars ⭐</h1>
-      <!--<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">-->
-       <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrbWQ5Mjdjemo3bjZ1NXB0eTBvNW1qdHllcDdrZW01Y291Y3RudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMCIfg6JRdxEvMy2XE/giphy.gif width="32px">
+      <h1 style="display: inline-block">Recent stars</h1>
+       <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NzMzQxc3RhZTJiNndybXMxdmZmNGNpZ3A0ODlqZDFkZzg1MHdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHovhgzSuCjLZSnetA/giphy.gif width="32px">
     </summary>
   </ul>
 </div>
