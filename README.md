@@ -126,8 +126,7 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Recent stars ⭐</h1>
-      <!--<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-       <div class="tenor-gif-embed" data-postid="25315194" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/canticos-stars-twinkle-twinkle-twinkle-little-star-twinkling-stars-gif-25315194">Canticos Stars Sticker</a>from <a href="https://tenor.com/search/canticos-stickers">Canticos Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>-->
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
     </summary>
   </ul>
 </div>
