@@ -196,8 +196,8 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Conect with me</h1>
-     <!--<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">-->
-       <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width="30" height="30" style="vertical-align: middle;">
+       <!--<img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width="30" height="30" style="vertical-align: middle;">-->
+       <img src="https://tenor.com/es-419/view/phantonym-follow-big-blue-button-gif-25266408" width="30" height="30" style="vertical-align: middle;">
     </summary>
   </ul>
 </div>
