@@ -105,23 +105,32 @@
 
 
 
-<!--Esta es el titulo de My Tech Stack-->
+<!--Esta es el titulo de Check out what I'm currently working on 👷 -->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">My Tech Stack</h1>
+      <h1 style="display: inline-block">Check out what I'm currently working on 👷 </h1>
       <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
     </summary>
   </ul>
 </div>
 
 
-
-<!--## 👷 Check out what I'm currently working on-->
-
+<!--Y esto es en lo que estoy trabajando-->
 - [CSS Button Library waz button](https://github.com) - Open Source - CSS Button Library (Active)
 
-## ⭐ Recent stars
+<!--Esta es el titulo de ⭐ Recent stars -->
+<!--## ⭐ Recent stars-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Check out what I'm currently working on 👷 </h1>
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+    </summary>
+  </ul>
+</div>
+
+<!--Estas son las ⭐ Recent stars -->
 
 - [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (1 day ago)
 
