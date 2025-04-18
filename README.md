@@ -118,22 +118,6 @@
 
 <!--Y esto es en lo que estoy trabajando-->
 - [CSS Button Library waz button](https://github.com) - Open Source - CSS Button Library (Active)
-- 
-
-<!--Esta es el titulo de las ⭐-->
-<!--## ⭐ Recent stars-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Recent stars</h1>
-       <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY2ZW8yOGs1YnhpMGpianZ0aWlwd2c2aXpjZzZwdjd1c25hOWtmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiFtlHVfWg8OOCPZX6/giphy.gif width="32px">
-    </summary>
-  </ul>
-</div>
-
-<!--Estas son las ⭐-->
-
-- [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. (1 day ago)
 
 
 <!--Este es el titulo de Videos de youtube -->
