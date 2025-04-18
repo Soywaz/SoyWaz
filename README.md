@@ -141,7 +141,7 @@
   <ul align="center">
     <summary>
       <h1 style="display: inline-block">Youtube Videos 🎞</h1>
-      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+     <img src= https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhbHJlcXE2cGt0Mzh2bW01Y3BuaHZpbm95ZDNlbmRpeDhraDc0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgMAmoaliiMthuz4zM/giphy.gif width="32px">
     </summary>
   </ul>
 </div>
