@@ -16,7 +16,7 @@
 
 <!--Esta son las letras verdes animadas estilo programador--> 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Instructor;System+Engineer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Software+Instructor;System+Engineer;" alt="Headline" />
 </div>
 
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
