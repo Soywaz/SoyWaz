@@ -129,7 +129,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">*youtube* Videos</h1>
+      <h1 style="display: inline-block">Youtube Videos</h1>
      <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlkYTNkMXk1YnlwbmRxeTl5cDF4MmQ4bTBwMmlodDJuM2Qwb3cycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOjRaFzsqtSupS8PIH/giphy.gif width="32px">
     </summary>
   </ul>
