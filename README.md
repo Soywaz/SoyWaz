@@ -140,13 +140,13 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Youtube Videos 🎞</h1>
-     <img src= https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRhbHJlcXE2cGt0Mzh2bW01Y3BuaHZpbm95ZDNlbmRpeDhraDc0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgMAmoaliiMthuz4zM/giphy.gif width="32px">
+      <h1 style="display: inline-block">Youtube Videos</h1>
+     <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlkYTNkMXk1YnlwbmRxeTl5cDF4MmQ4bTBwMmlodDJuM2Qwb3cycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOjRaFzsqtSupS8PIH/giphy.gif width="32px">
     </summary>
   </ul>
 </div>
 
-## 🎞 Video tutoriales *youtube*
+## Video tutoriales *youtube*
 
 <table>
 <tr>
