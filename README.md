@@ -19,7 +19,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Software+Instructor;System+Engineer;" alt="Headline" />
 </div>
 
-<!--Estos son los iconos de redes sociales abajo del las letras verdes-->
+<!--Estos son los iconos de redes sociales abajo del las letras verdes
 <div align=center>
  <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
  <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
@@ -27,7 +27,7 @@
  <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
  <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/Soy%20waz?style=social">
-</div>
+</div>-->
 
 <!--Esta es la LINEA TOP delgadita-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
