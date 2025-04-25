@@ -27,6 +27,8 @@
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
+ <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
+ <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
