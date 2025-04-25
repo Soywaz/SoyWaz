@@ -23,10 +23,6 @@
 <div align=center>
  <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
  <a href="https://http://www.soywaz.com/"><img alt="Static Badge" src="https://img.shields.io/badge/mi--web-black" /><a/>
- <a href="https://http://www.soywaz.com/"><img alt="Static Badge" src="https://img.shields.io/badge/figma-black?logo=figma&logoColor=%23101820&labelColor=%2304AA6D"></a>
- <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
- <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/Soy%20waz?style=social">
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
