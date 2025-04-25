@@ -246,3 +246,6 @@
     </a>
   </p>
 </p>
+
+> [ !PRECAUCIÓN ] 
+> Consecuencias negativas potenciales de una acción.
