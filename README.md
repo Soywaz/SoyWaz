@@ -21,9 +21,6 @@
 
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
- <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
- <a href="http://www.soywaz.com/"><img alt="Static Badge" src="https://img.shields.io/badge/soywaz-black" /><a/>
- <a href="https://x.com/Soy_waz"><img alt="Static Badge" src="https://img.shields.io/badge/soywaz-white?style=flat&logo=X&logoColor=%23101820" /><a/>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
 </div>
 
