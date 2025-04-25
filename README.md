@@ -22,7 +22,8 @@
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
  <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
- <a href="https://http://www.soywaz.com/"><img alt="Static Badge" src="https://img.shields.io/badge/mi--web-black" /><a/>
+ <a href="http://www.soywaz.com/"><img alt="Static Badge" src="https://img.shields.io/badge/mi--web-black" /><a/>
+ <a href="https://x.com/Soy_waz"><<img alt="Static Badge" src="https://img.shields.io/badge/soywaz-white?style=social&logo=X&logoColor=%23101820" /><a/>
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
