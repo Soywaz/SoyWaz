@@ -34,9 +34,15 @@
 <a href="https://www.tupaginaweb.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
 </a>
-
-
- 
+<a href="https://twitter.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="X Badge">
+</a>
+<a href="https://www.twitch.tv/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge">
+</a>
+<a href="https://discord.gg/tu_invitacion" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+</a>
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
