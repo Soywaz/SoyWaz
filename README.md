@@ -19,7 +19,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Software+Instructor;System+Engineer;" alt="Headline" />
 </div>
 
-<!--Estos son los iconos de redes sociales abajo del las letras verdes
+<!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
@@ -29,7 +29,7 @@
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
-</div>-->
+</div>
 
 <!--Esta es la LINEA TOP delgadita-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
