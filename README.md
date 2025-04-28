@@ -244,11 +244,10 @@
 
 <!--Estos son los logos de mis redes sociales-->
 <p align="center">
-  <a href="http://www.soywaz.com/" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/domain--v1.png" /></a>
-  <a href="https://x.com/Soy_waz" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/ios/50/twitterx--v1.png" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/color/48/youtube-play.png" /></a>
-  <a href="https://www.instagram.com/soy_waz/" target="_blank"><img align="center" width="40px" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" /></a>
-</p>
+  <a href="https://www.tupaginaweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+</a>
+</div>
 
 
 <!--Comprame un cafe -->
