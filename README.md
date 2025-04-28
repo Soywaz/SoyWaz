@@ -264,8 +264,8 @@
 <a href="https://www.paypal.com/donate?hosted_button_id=tu_id" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
 </a>
-<a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://github.com/SoyWaz"/>
-</a>
+<a href="https://www.buymeacoffee.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge">
+  </a>
  </div>
 
