@@ -21,6 +21,10 @@
 
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
+
+<a href="http://www.soywaz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+</a>
    
 <a href="https://www.youtube.com/tu_canal" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
@@ -31,9 +35,7 @@
 <a href="https://www.instagram.com/soy_waz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
 </a>
-<a href="http://www.soywaz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
-</a>
+
 <a href="https://x.com/Soy_waz" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="X Badge">
 </a>
@@ -246,11 +248,13 @@
 <a href="https://www.patreon.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Badge">
 </a>
-<a href="https://www.paypal.com/donate?hosted_button_id=tu_id" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
-</a>
+
 <a href="https://www.buymeacoffee.com/tu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge">
   </a>
+
+<a href="https://www.paypal.com/donate?hosted_button_id=tu_id" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
+</a>
  </div>
 
