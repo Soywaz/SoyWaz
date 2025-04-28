@@ -266,7 +266,7 @@
 </a>
 </div>
     <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="########"/>
+      <img align="center" src="https://github.com/SoyWaz"/>
     </a>
   </p>
 </p>
