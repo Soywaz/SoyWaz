@@ -235,25 +235,11 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Conect with me</h1>
+      <h1 style="display: inline-block">Support me</h1>
        <img src="https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width="30" height="30" style="vertical-align: middle;">
     </summary>
   </ul>
 </div>
-
-
-<!--Estos son los logos de mis redes sociales-->
-<p align="center">
-  <a href="https://www.tupaginaweb.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
-</a>
-</div>
-
-
-<!--Comprame un cafe -->
-<p>
-  <h3 align="center">Support:</h3>
-<p>
 
 <div align="center">
 
