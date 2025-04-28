@@ -22,13 +22,9 @@
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- <a href="https://www.youtube.com/@AlexNortech">[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) /a>
+ [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+ [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)
+ [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
  [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)
 </div>
 
