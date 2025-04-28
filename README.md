@@ -255,6 +255,16 @@
 <p>
   <h3 align="center">Support:</h3>
 <p>
+
+<div align="center">
+
+<a href="https://www.patreon.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Badge">
+</a>
+<a href="https://www.paypal.com/donate?hosted_button_id=tu_id" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
+</a>
+</div>
     <a href="https://www.buymeacoffee.com/josuerv99">
       <img align="center" src="########"/>
     </a>
