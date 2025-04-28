@@ -25,16 +25,16 @@
 <a href="https://www.youtube.com/tu_canal" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
 </a>
-<a href="https://www.figma.com/@tu_usuario" target="_blank">
+<a href="https://www.figma.com/@soy_waz" target="_blank">
     <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
 </a>
-<a href="https://www.instagram.com/tu_usuario" target="_blank">
+<a href="https://www.instagram.com/soy_waz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
 </a>
-<a href="https://www.tupaginaweb.com" target="_blank">
+<a href="http://www.soywaz.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
 </a>
-<a href="https://twitter.com/tu_usuario" target="_blank">
+<a href="https://x.com/Soy_waz" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="X Badge">
 </a>
 <a href="https://www.twitch.tv/tu_usuario" target="_blank">
