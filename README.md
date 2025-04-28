@@ -26,6 +26,9 @@
  [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)
  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
  [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+ [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://www.figma.com/@Soy_waz)
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
