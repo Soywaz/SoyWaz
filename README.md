@@ -22,11 +22,20 @@
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
    
- <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
-
 <a href="https://www.youtube.com/tu_canal" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
-  </a>
+</a>
+<a href="https://www.figma.com/@tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+</a>
+<a href="https://www.instagram.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>
+<a href="https://www.tupaginaweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+</a>
+
+
  
 </div>
 
