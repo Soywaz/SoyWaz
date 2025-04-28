@@ -21,17 +21,13 @@
 
 <!--Estos son los iconos de redes sociales abajo del las letras verdes-->
 <div align=center>
+   
  <a href="https://www.youtube.com/@AlexNortech"><img alt="Static Badge" src="https://img.shields.io/badge/youtube-white?style=flat&logo=youtube&logoColor=%23101820" /></a>
- [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
- [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)
- [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
- [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
- [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
-
+<a href="https://www.youtube.com/tu_canal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
+  </a>
+ 
 </div>
 
 <!--Esta es la LINEA TOP delgadita-->
